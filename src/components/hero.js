@@ -59,8 +59,7 @@ const Hero = () => {
             }}
           >
             <Themed.p sx={{ fontSize: [3, null, null, null, 4] }}>
-              I grow vegetables, flowers and community. I build remarkable
-              online experiences focused on{" "}
+              I grow dog.{" "}
               {hasMounted ? (
                 <Fragment>
                   <RoughNotation type="underline" show={true} strokeWidth={2}>
