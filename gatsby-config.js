@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Lithium`,
+    title: `Woof`,
     description: `Speed up your Gatsby development workflow.`,
     keywords: [`gatsby`, `theme`, `react`, `blog`],
     author: `Eric Howey`,
