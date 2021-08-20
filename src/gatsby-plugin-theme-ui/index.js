@@ -23,7 +23,7 @@ const theme = merge(BaseTheme, {
     background: baseColors.gray[1], //Try "#954264",
     text: baseColors.gray[8],
     textGray: "#6b6b6b",
-    primary: baseColors.blue[7],
+    primary: baseColors.gray[6],
     secondary: baseColors.orange[7],
     accent: baseColors.green[4],
     highlight: baseColors.orange[5],
