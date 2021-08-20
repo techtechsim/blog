@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Woof`,
     description: `Speed up your Gatsby development workflow.`,
-    keywords: [`gatsby`, `theme`, `react`, `blog`],
+    keywords: [`blog`, `dog`, `information`, `blog`],
     author: `Eric Howey`,
     siteUrl: `https://gatsby-starter-catalyst-helium.netlify.app`, //Change to you site address, required for sitemap.xml and robots.txt file among other things
     menuLinks: [
