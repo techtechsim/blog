@@ -27,7 +27,7 @@ module.exports = {
       },
       {
         name: `Instagram`,
-        link: `https://www.instagram.com`,
+        link: `https://www.instagram.com/`,
         location: `all`, //Options are "all", "header", "footer"
       },
       {
